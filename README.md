@@ -13,7 +13,8 @@
 <br/>
 
 ### ・Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,html,css,php,mysql,sqlite&theme=light)](https://skillicons.dev)                  
+[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,react,html,css,swift,mysql,sqlite&theme=light)](https://skillicons.dev)                  
 
-
+### ・Research
+[年齢別人口構成による類似自治体抽出システムの再考](http://sig-iss.work/iss29/2-2.pdf "年齢別人口構成による類似自治体抽出システムの再考")
 
