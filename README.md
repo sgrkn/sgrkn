@@ -1,4 +1,4 @@
-### About sgrkn
+### About sgrkn 🌱
 ---
 🎓 Gunma University, majoring in social informatics.<br>
 <br>
@@ -13,8 +13,10 @@
 <br/>
 
 ### ・Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,react,html,css,swift,mysql,sqlite&theme=light)](https://skillicons.dev)                  
+[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,react,html,css,swift,mysql,sqlite,figma&theme=light)](https://skillicons.dev)   
+
+<br />       
 
 ### ・Research
-[年齢別人口構成による類似自治体抽出システムの再考](http://sig-iss.work/iss29/2-2.pdf "年齢別人口構成による類似自治体抽出システムの再考")
+[「年齢別人口構成による類似自治体抽出システムの再考」](http://sig-iss.work/iss29/2-2.pdf "年齢別人口構成による類似自治体抽出システムの再考")
 
