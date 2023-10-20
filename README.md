@@ -13,4 +13,4 @@
 <br/>
 
 ### ・Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,react,html,css,swift,mysql,sqlite&theme=light)](https://skillicons.dev)   
+[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,react,html,css,swift,sqlite&theme=light)](https://skillicons.dev)   
