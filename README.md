@@ -1,5 +1,5 @@
-### About sgrkn 🌱
----
+## About sgrkn 🌱
+<br>
 🎓 Gunma University, majoring in social informatics.<br>
 <br>
 
