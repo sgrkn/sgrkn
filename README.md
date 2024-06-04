@@ -1,5 +1,5 @@
 <br />
-<h2>🔖 Profile</h2>
+<h2>💭 Profile</h2>
 <p>🎓 Bachelor of Socio-Informatics</p>
 <br />
 <h2>💡 Works </h2>
